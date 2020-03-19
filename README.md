@@ -1,10 +1,12 @@
 Pub Quiz Buddy
 
-This app was made by myself and 3 other students at CodeClan on Week 9 of the course.  It displays all the pub quizzes in Edinburgh filterable by day.  The user is also able to add a pub quiz should it not already be on the map.
+This app was made by myself and 3 other students at CodeClan on Week 9 of the course.  It displays all the pub quizzes in Edinburgh filterable by day.  
 
 ![](images/pub_quiz.png)
 
-![](images/add_quiz.png)
+The user is able to add a pub quiz should it not already be on the map, the form for this is below.
+
+![](images/add_pub.png)
 
 
 Pub Quiz buddy uses Google Apis so you will need to sign up to get a key. 
