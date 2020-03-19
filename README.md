@@ -8,6 +8,24 @@ The user is able to add a pub quiz should it not already be on the map, the form
 
 ![](images/add_pub.png)
 
+## The Brief
+
+The people of Edinburgh are bored!  They want to find a pub quiz that they can do, but they have some requirements.  Some want to go on different days of the week, some one to bring the dogs.  This app will allow people to find the right quiz for their requirements.
+
+### MVP
+
+A pub quizzer should be able to:
+
+- Filter quizzes by day and see those quizzes on a map.
+- Click on a marker and open up more information about that quiz.
+- Add their favourite Pub quiz if it is missing from the map.
+
+### Extensions
+
+- Filter quizzes by time, dog friendliness, student discount
+- Filter by distance using their postcode
+
+
 ## How to setup Pub Quiz Buddy 
 
 Pub Quiz buddy uses Google Apis so you will need to sign up to get a key. 
@@ -33,3 +51,4 @@ Pub Quiz buddy uses Google Apis so you will need to sign up to get a key.
 - Change to client directory: 'npm run serve'
 
 - The App should now be loaded in localhost.  
+
