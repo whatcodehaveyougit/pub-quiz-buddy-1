@@ -1,4 +1,4 @@
-Pub Quiz Buddy
+## Pub Quiz Buddy
 
 This app was made by myself and 3 other students at CodeClan on Week 9 of the course.  It displays all the pub quizzes in Edinburgh filterable by day.  
 
