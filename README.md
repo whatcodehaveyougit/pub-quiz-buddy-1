@@ -4,7 +4,7 @@ This app was made by myself and 3 other students at CodeClan on Week 9 of the co
 
 ![](images/pub_quiz.png)
 
-The user is able to add a pub quiz if it not already be on the map, the form to do this is below. We use the Google Places API to get the lattitude / longtitude and address from its name (ie "The Black Bull").  This means that once submitted the pub will be added straight to the map.  In deploying this app we are disucussing some sort of process in which we can monitor what quizzes go up as a sort of quality control.
+The user is able to add a pub quiz, the form to do this is below. We used the Google Places API to get the lattitude / longtitude and address from its name (ie "The Black Bull").  This means that once submitted the pub will be added straight to the map / database.  In deploying this app we are disucussing a process where we monitor what quizzes go up as a quality control.
 
 ![](images/add_pub.png)
 
