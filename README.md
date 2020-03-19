@@ -8,6 +8,7 @@ The user is able to add a pub quiz should it not already be on the map, the form
 
 ![](images/add_pub.png)
 
+## How to setup Pub Quiz Buddy 
 
 Pub Quiz buddy uses Google Apis so you will need to sign up to get a key. 
 
